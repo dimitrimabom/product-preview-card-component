@@ -34,7 +34,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-Se Composant m'as permi de decouvrir comment bien utiliser le content dans le CSS. Je l'ai utiliser pour changer changer l'URL de l'images en vue telephone.
+This component has allowed me to discover how to use content in CSS. I used it to change the URL of the images in telephone view.
 
 ```css
 .image-product {
